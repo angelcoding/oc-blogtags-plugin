@@ -1,0 +1,11 @@
+{
+  "name": "scottbedard/blogtags",
+  "type": "october-plugin",
+  "description": "Blog Tags plugin",
+  "keywords": ["october", "cms", "blog", "tags", "plugin"],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.0",
+    "composer/installers": "~1.0"
+  }
+}
